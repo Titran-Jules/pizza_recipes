@@ -23,3 +23,4 @@ Sauce :
 	- tomate concassées
 	- pulpe
 	- basilic
+        - sel
