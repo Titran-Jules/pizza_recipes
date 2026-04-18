@@ -1,1 +1,6 @@
 Pizza
+
+Garnitures :
+	- fromage
+	- olive
+	- mortadelle
