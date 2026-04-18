@@ -1,7 +1,1 @@
 Pizza
-Garnitures:
-	- fromage
-	- olive
-	- oignons
-	- salami
-	- oeuf	
