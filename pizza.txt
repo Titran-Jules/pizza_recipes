@@ -25,3 +25,7 @@ Sauce :
 	- basilic
         - sel
 
+Garnitures :
+	- fromage
+	- olive
+	- mortadelle
